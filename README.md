@@ -12,11 +12,11 @@
 
 
 #示例图如下
-
+###刷新图
 ![image](https://github.com/qiushi123/NewsHotSift/blob/master/apk_iamge_demo/animation.gif?raw=true)
-
+###效果图
 ![image](https://github.com/qiushi123/NewsHotSift/blob/master/apk_iamge_demo/1_meitu_1.png?raw=true)
-
+##刷新完
 ![image](https://github.com/qiushi123/NewsHotSift/blob/master/apk_iamge_demo/4_meitu_2.jpg?raw=true)
 
 
