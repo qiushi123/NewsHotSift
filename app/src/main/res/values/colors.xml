@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+
+    <color name="home_tab_normal">#bbbbbb</color>
+    <color name="home_tab_selected">#2bc47e</color>
+
+    <!-- qclviewpager顶部tab颜色-->
+    <color name="background_tab_pressed">#D3D3D3</color>
+    <color name="slidingtab_indicatorcolor">#2bc47e</color>
+    <color name="home_button_bg">#90f9f9f9</color>
+
+</resources>
