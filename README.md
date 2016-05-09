@@ -2,7 +2,7 @@
 微信热文精选，微信热文安卓app版。
 每天精选微信朋友圈最热最火的文章，每篇阅读量都是1万+的好文章，数据从微信后台获取。
 
-代码示例（演示apk）：
+代码示例（演示apk）：http://download.csdn.net/detail/qiushi_1990/9513038
 
 #应用技术
 ###1，WaveSwipeRefreshLayout： https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout
